@@ -1,0 +1,6 @@
+# parametros.lib
+# PARAMETROS GERAIS DO SISTEMA
+
+# LOCALIZAÇÃO DA PASTA DO BOT
+LOCAL_BOT=/home/irwing/shell/ip_monitor
+DEVICE_NAME="Notebook"
